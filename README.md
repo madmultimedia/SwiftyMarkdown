@@ -220,6 +220,11 @@ italic.fontSize : CGFloat
 italic.color : UI/NSColor
 italic.fontStyle : FontStyle
 
+boldItalic.fontName : String
+boldItalic.fontSize : CGFloat
+boldItalic.color : UI/NSColor
+boldItalic.fontStyle : FontStyle
+
 code.fontName : String
 code.fontSize : CGFloat
 code.color : UI/NSColor
